@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d274ef22-eb06-4b49-8a55-ab21634ef8ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learning-for-friends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d274ef22-eb06-4b49-8a55-ab21634ef8ae" name="Changes" comment="Add practical Python projects and setup instructions&#10;&#10;- Implemented practical project examples in Python (`06_practical_projects.py`):&#10;  - Number Guessing Game&#10;  - Todo List Manager&#10;  - Calculator with History&#10;  - Student Grade Manager&#10;  - Password Generator&#10;- Added corresponding setup files for the project (`.idea` directory).&#10;- Included a `README.md` with project descriptions and file details.">
+      <change afterPath="$PROJECT_DIR$/07_error_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_modules_packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_web_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_database_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jakubbbdev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jakubbbdev/learning-for-friends.git",
+    "accountId": "755aa181-22be-42f5-a674-509e0b137635"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -48,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759344019941</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add practical Python projects and setup instructions&#10;&#10;- Implemented practical project examples in Python (`06_practical_projects.py`):&#10;  - Number Guessing Game&#10;  - Todo List Manager&#10;  - Calculator with History&#10;  - Student Grade Manager&#10;  - Password Generator&#10;- Added corresponding setup files for the project (`.idea` directory).&#10;- Included a `README.md` with project descriptions and file details.">
+      <option name="closed" value="true" />
+      <created>1759344937265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759344937265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add practical Python projects and setup instructions&#10;&#10;- Implemented practical project examples in Python (`06_practical_projects.py`):&#10;  - Number Guessing Game&#10;  - Todo List Manager&#10;  - Calculator with History&#10;  - Student Grade Manager&#10;  - Password Generator&#10;- Added corresponding setup files for the project (`.idea` directory).&#10;- Included a `README.md` with project descriptions and file details." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add practical Python projects and setup instructions&#10;&#10;- Implemented practical project examples in Python (`06_practical_projects.py`):&#10;  - Number Guessing Game&#10;  - Todo List Manager&#10;  - Calculator with History&#10;  - Student Grade Manager&#10;  - Password Generator&#10;- Added corresponding setup files for the project (`.idea` directory).&#10;- Included a `README.md` with project descriptions and file details." />
   </component>
 </project>
